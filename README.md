@@ -303,13 +303,27 @@ Las futuras versiones podrán incorporar:
 
 **JustiPower — anteriormente JustiDownloadPRO**
 
-https://github.com/JustiCode/JustiDownloadPRO
+https://github.com/JustiCode/JustiPower
 
 ---
 
-## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia especificada en el repositorio.
+## 📄 Licencia y condiciones de uso
+
+JustiPower es un software propietario de uso gratuito, desarrollado por Mauro Ocampo – JustiCode.
+
+Se autoriza su descarga, instalación y utilización gratuita, conforme a las condiciones establecidas en el documento **LICENSE.md**.
+
+La autorización de uso no implica la entrega del código fuente ni concede derechos para modificar, adaptar, descompilar, crear versiones derivadas o distribuir versiones modificadas del programa, con las excepciones que establezcan las normas imperativas y las licencias de terceros aplicables.
+
+Se autoriza expresamente compartir gratuitamente copias íntegras y sin modificaciones del programa compilado, tanto por medios digitales como físicos, especialmente para facilitar el acceso a personas con discapacidad visual y a otros usuarios que necesiten asistencia para obtenerlo.
+
+Esta distribución solidaria no podrá realizarse con fines comerciales y deberá conservar los avisos de autoría, identificación y licencia del programa.
+
+Los componentes, herramientas y bibliotecas desarrollados por terceros conservan sus respectivas licencias y condiciones de uso.
+
+**Consulta:** [Licencia propietaria de uso gratuito](LICENSE.md).
+
 
 ---
 
